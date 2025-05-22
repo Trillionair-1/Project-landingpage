@@ -1,0 +1,41 @@
+<section id="menu" class="menu">
+        <div class="container">
+            <h2>Our Menu</h2>
+            <form id="order-form">
+                <div class="menu-categories">
+                    <div class="category">
+                        <h3>Chai & Coffee</h3>
+                        <div class="menu-items">
+                            <div class="menu-item">
+                                <div class="menu-item-checkbox">
+                                    <input type="checkbox" id="item-1" name="menu-items" value="Filter Coffee">
+                                </div>
+                                <div class="menu-item-details">
+                                    <h4>Filter Coffee</h4>
+                                    <p>Contiental Filter coffee. Rich and aromatic</p>
+                                    <span class="price">₹10</span>
+                                </div>
+                            </div>
+                            <div class="menu-item">
+                                <div class="menu-item-checkbox">
+                                    <input type="checkbox" id="item-2" name="menu-items" value="Chai">
+                                </div>
+                                <div class="menu-item-details">
+                                    <h4>Chai</h4>
+                                    <p>Just Chai</p>
+                                    <span class="price">₹10</span>
+                                </div>
+                            </div>
+                            <div class="menu-item">
+                                <div class="menu-item-checkbox">
+                                    <input type="checkbox" id="item-3" name="menu-items" value="Badam Milk">
+                                </div>
+                                <div class="menu-item-details">
+                                    <h4>Badam Milk</h4>
+                                    <p>GRB Badam Milk mix</p>
+                                    <span class="price">₹15</span>
+                                </div>
+                            </div>
+                            <div class="menu-item">
+                                <div class="menu-item-checkbox">
+                                    <input type="checkbox" id="item-4" name="menu-items" value="Ganne ka 
